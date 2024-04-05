@@ -3,6 +3,8 @@
 Este projeto consiste em um dashboard interativo para visualização e análise de dados de relatório de vendas. 
 Utiliza a biblioteca Plotly Dash para criar uma interface web interativa em Python, permitindo aos usuários explorar visualmente os dados de vendas.
 
+![screencapture-mayconramos-pythonanywhere-2024-04-01-20_06_08](https://github.com/mramgti/api_dashboard/assets/140974420/035c18d5-61e1-4b69-977d-cb74456d7710)
+
 ## Funcionalidades
 
 - Visualização de vendas por mês, representante, produto, região e estado.
